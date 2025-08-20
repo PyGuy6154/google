@@ -1,4 +1,4 @@
 # google
 [google](https://www.google.com/)
-[rammerhead browser](browser.rammerhead.org)
-[cloudflare ver.](cloudflare.rammerhead.org)
+[rammerhead browser](https://www.browser.rammerhead.org)
+[cloudflare ver.](https://www.cloudflare.rammerhead.org)
